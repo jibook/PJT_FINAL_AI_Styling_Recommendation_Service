@@ -1,1 +1,1 @@
-# https-github.com-jibook-PJT_FINAL_AI_Styling_Recommendation_Service
+# PJT_FINAL_AI_Styling_Recommendation_Service
