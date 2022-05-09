@@ -1,6 +1,8 @@
 # PJT_FINAL_AI_Styling_Recommendation_Service
 
-https://github.com/sara4kyj/finalPJT_ClosetCloud (본 프로젝트 깃허브)
+[본 프로젝트 메인 깃허브](https://github.com/sara4kyj/finalPJT_ClosetCloud)
+[프로젝트 발표자료](https://github.com/jibook/PJT_FINAL_AI_Styling_Recommendation_Service/blob/master/Cloud_Closet__AI_Styling_Recommendation_Service.pdf)
+
 
 # 1.1 프로젝트 개요
 ## 1.1.1. 문제 정의 및 목적
